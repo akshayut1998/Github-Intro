@@ -2,7 +2,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akshay-navaneetha-krishnan/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://github.com/akshayut1998))
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akshayut1998)
 
 ## Background 📊
 

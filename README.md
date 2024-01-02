@@ -31,7 +31,7 @@ For more detailed information about my professional background, you can view my 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r&theme=light,mysql&theme=light,py&theme=light,pytorch&theme=light,tensorflow&theme=light,github&theme=light,postgres&theme=light,gcp&theme=light,git&theme=light,mongodb&theme=light,selenium&theme=light,vscode&theme=light &perline=14" />
+    <img src="https://skillicons.dev/icons?i=r,mysql,py,pytorch,tensorflow,github,postgres,gcp,git,mongodb,selenium,vscode &perline=14" />
   </a>
 </p>
 

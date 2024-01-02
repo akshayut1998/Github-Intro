@@ -29,9 +29,9 @@ For more detailed information about my professional background, you can view my 
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,r,mysql,py,pytorch,tensorflow,github,illustrator,photoshop,matlab,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=r,mysql,py,pytorch,tensorflow,github,postgres,gcp,git,mongodb,selenium,vscode &perline=14" />
   </a>
 </p>
 

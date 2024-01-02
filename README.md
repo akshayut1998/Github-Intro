@@ -1,4 +1,8 @@
-# Hello, I'm [Akshay] 👋
+# Hello, I'm Akshay 👋
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akshay-navaneetha-krishnan/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://github.com/akshayut1998))
 
 ## Background 📊
 
@@ -10,7 +14,7 @@ My passion lies in the dynamic field of data science 🌐, where I enjoy applyin
 
 ## Contact 📧
 
-Feel free to reach out to me at [nakshaykrishnan@utexas.edu] 📬 if you have any inquiries or would like to connect. I'm always open to discussing data science, analytics, or any exciting collaboration opportunities.
+Feel free to reach out to me at nakshaykrishnan@utexas.edu 📬 if you have any inquiries or would like to connect. I'm always open to discussing data science, analytics, or any exciting collaboration opportunities.
 
 ## Resume 📄
 

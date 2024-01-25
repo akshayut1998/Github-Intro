@@ -2,7 +2,7 @@
 
 ## Background 📊
 
-I am a data enthusiast 🚀 currently pursuing a Master's in Business Analytics at UT Austin. As a Senior Data Scientist at Impact Analytics, my expertise extends across various domains, with a primary focus on leveraging data science to solve complex challenges.
+I am a data enthusiast 🚀 currently pursuing a Master's in Business Analytics at UT Austin. As a former Senior Data Scientist at Impact Analytics, my expertise extends across various domains, with a primary focus on leveraging data science to solve complex challenges.
 
 ## Interest and Expertise 🧠
 
